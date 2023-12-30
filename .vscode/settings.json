@@ -1,0 +1,26 @@
+{
+    "rust-analyzer.cargo.target": "thumbv6m-none-eabi",
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "consts",
+        "DPRAM",
+        "elec",
+        "fabs",
+        "fabsf",
+        "fmod",
+        "heapless",
+        "kisyfoc",
+        "libm",
+        "multicore",
+        "nostd",
+        "NVIC",
+        "pwms",
+        "REGS",
+        "repr",
+        "roundf",
+        "sparkfun",
+        "USBCTRL",
+        "usbd"
+    ]
+}
